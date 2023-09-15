@@ -5,5 +5,5 @@ streamlit.title('My Parents NEw Healthy Diner')
 
 streamlit.title('Breakfast Menu')
 
-streamlit('Omega 3 & Blueberry Oatmeal')
+streamlit.title('Omega 3 & Blueberry Oatmeal')
 
